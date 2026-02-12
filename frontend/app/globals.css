@@ -173,9 +173,3 @@ button {
     grid-template-columns: 1fr;
   }
 }
-
-.warning {
-  margin: 0;
-  color: #b42318;
-  font-weight: 600;
-}
